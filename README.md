@@ -9,6 +9,10 @@ The frontend accesses the data with very basic vanilla JS, updating items in a l
 
 While an incrementing number source is far from a complex production web application, and a `ul` is not quite a full React application, this serves as a proof of concept of the approaches used in streaming web applications.
 
+Check out a video demo here:
+
+[![Watch the video](https://img.youtube.com/vi/RWaX_qU1d0E/maxresdefault.jpg)](https://youtu.be/RWaX_qU1d0E)
+
 ## Running
 
 1. Ensure Node JS is installed
